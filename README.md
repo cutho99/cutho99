@@ -2,6 +2,8 @@
 
 I am new to the IT field. I am currently learning using the L2C [resource](https://learntocloud.guide/). I plan to work towards becoming a system administrator first, but I also need to learn more about coding so here I am. 
 
+### bye have a good day
+
 <!--
 **cutho99/cutho99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
